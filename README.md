@@ -22,8 +22,8 @@ Proyek ini berisi materi pembelajaran machine learning dari nol, termasuk:
 📂 Submission
 ├── 📂 [Clustering] Submission Akhir BMLP_Nama.ipynb
 ├── 📂 [Klasifikasi] Submission Akhir BMLP_Nama.ipynb
-├── 📄 Dataset_clustering.csv
-└── 📄 Dataset_inisiasi.csv
+├── 📄 bank_transactions_data_2.csv
+└── 📄 Dataset_clustering.csv
 </pre>
     
 ## 📖 Sumber Belajar 
