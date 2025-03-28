@@ -1,6 +1,7 @@
 # Belajar Machine Learning untuk Pemula
 
-Selamat datang di repositori **Belajar Machine Learning untuk Pemula**! Repositori ini adalah dokumentasi dari belajar machine learning pemula tujuan utama adalah membuat perjalanan belajar
+Selamat datang di repositori **Belajar Machine Learning untuk Pemula**! Repositori ini adalah dokumentasi dari belajar machine learning pemula.
+Tujuan utama dibuatnya repository ini adalah untuk perjalanan belajar machine learning
 
 ## 🚀 Tentang Proyek
 Proyek ini berisi materi pembelajaran machine learning dari nol, termasuk:
